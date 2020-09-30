@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<meta chartset=utf-8>
+<meta
+<head>
+<title>my portfolio</title>
+<link rel="style sheet"href="/w3css/4/w3.css"
+</head>
+<body>
+<h1>INTODUCTION TO PROGRAMMING</h1>
+<p1>on the fisrt week  one is introduced to coding language.one learn the following;
+<ol>
+<li>GUI</li>
+<li>git</liu>
+<li>html</li>
+<li>development tools,navigation ,bookstrap</li>
+</ol>
+</p1>
+</body>
